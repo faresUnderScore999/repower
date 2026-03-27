@@ -1,75 +1,47 @@
-# Nuxt Minimal Starter
+# 🌱 Repower
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## 📋 Project Overview
 
-## Setup
+Repower is a modern web application dedicated to promoting sustainable energy practices and empowering communities to take action on environmental challenges. The platform provides information, resources, and ways for users to get involved in renewable energy initiatives and contribute to a more sustainable future.
 
-Make sure to install dependencies:
+## ✨ What It Does
 
-```bash
-# npm
-npm install
+Repower offers:
+- 📚 **Educational Content** - Learn about renewable technologies and their impact
+- 🤝 **Community Engagement** - Get involved with local sustainability initiatives
+- 💳 **Donation Support** - Contribute financially to environmental projects
+- 🛠️ **Resource Hub** - Access tools and information about clean energy solutions
+- 🚀 **Technology Showcase** - Discover cutting-edge sustainable technologies
 
-# pnpm
-pnpm install
+## 💡 Why We Made It
 
-# yarn
-yarn install
+We created Repower to address the urgent need for accessible information and engagement around renewable energy and environmental sustainability. By combining education, community building, and actionable ways to contribute, we aim to accelerate the transition to cleaner energy sources and inspire meaningful climate action.
 
-# bun
-bun install
-```
+## 🛠️ Technologies
 
-## Development Server
+This project is built with:
+- **[Nuxt 3](https://nuxt.com)** - Vue.js framework for building server-side rendered applications
+- **[Vue 3](https://vuejs.org)** - Progressive JavaScript framework for user interfaces
+- **[TypeScript](https://www.typescriptlang.org/)** - Type-safe JavaScript development
+- **Modern Web Standards** - Responsive design and accessible components
 
-Start the development server on `http://localhost:3000`:
 
-```bash
-# npm
-npm run dev
+### 📦 Prerequisites
+- Node.js 16+ installed on your system
+- npm, pnpm, yarn, or bun package manager
 
-# pnpm
-pnpm dev
 
-# yarn
-yarn dev
+## 📁 Project Structure
 
-# bun
-bun run dev
-```
+- `/app` - Main application components and pages
+  - `/pages` - Route pages (about, contact, donate, get-involved, technology)
+  - `/components` - Reusable Vue components
+  - `/layouts` - Application layout templates
+- `/public` - Static assets
+- `nuxt.config.ts` - Nuxt configuration
+- `tsconfig.json` - TypeScript configuration
 
-## Production
+## 📖 Learn More
 
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- [Nuxt Documentation](https://nuxt.com/docs/getting-started/introduction)
+- [Vue 3 Documentation](https://vuejs.org/guide/introduction.html)
